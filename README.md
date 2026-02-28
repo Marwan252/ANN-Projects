@@ -113,11 +113,4 @@ When adding new projects:
 4. Update the relevant README.md files
 5. Ensure data files are properly linked
 
-## 📝 License
-
-[Specify your license here]
-
-## 👤 Author
-
-[Your name/contact information]
 
